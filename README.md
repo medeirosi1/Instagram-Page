@@ -1,6 +1,6 @@
-# Instagram Page 💻
+# Instagram Page or Capigram Page 💻
 
-Essa é a página de login do instagram proposto pelo desafio da DIO no Bootcamp da Unimed-BH.
+Uma paródia feita da página de login do intagram com o nome de "Capigram" proposto pelo desafio da DIO no Bootcamp da Unimed-BH.
 
 Tecnoligas Utizadas:
 
