@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.capigram-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+}
+
+.capigram-base-login {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.images {
+    width: 95%;
+}
+
+#capybarainsta {
+    border-radius: 50%;
+}
+
+.capigram-login {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    border: 2px solid lightgray;
+    border-radius: 2px;
+    width: 25vw;
+    height: 60vh;
+    margin-top: 20px;
+}
+.capigram-base-input {
+    text-align: center;
+}
+
+.capigram-input {
+    padding: 10px;
+    margin-top: 10px;
+    width: 80%;
+}
+
+#button {
+    padding: 10px;
+    margin-top: 10px;
+    width: 80%;
+    color: white;
+    background-color: #0095f6;
+    cursor: pointer;
+}
+
+.links {
+    text-decoration: none;
+    color: #3b5998;
+}
+
+.cadastrar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0;
+    border: 2px solid lightgray;
+    width: 25vw;
+    height: 10vh;
+}
+
+.apps {
+    display: flex;
+    justify-content: center;
+}
+
+.logo {
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 30%;
+}
