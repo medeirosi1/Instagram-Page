@@ -8,5 +8,4 @@ Tecnoligas Utizadas:
 - HTML
 
 Imagem da versão 1.0 da página.
-<img src="![image](https://user-images.githubusercontent.com/94460870/174878804-890e4b20-c901-44b9-ac34-e2c4b1d6c4d0.png)
-"/>
+<img src="https://user-images.githubusercontent.com/94460870/174878992-71dd09c7-6b74-42e3-8d26-c76c15a85eec.png" align="center" style="width: 75%" />
